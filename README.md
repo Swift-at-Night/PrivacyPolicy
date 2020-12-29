@@ -1,2 +1,3 @@
-# PrivacyPolicy
-Privacy policy 
+# 개인정보 처리방침
+
+준비중입니다.
